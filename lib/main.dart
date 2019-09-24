@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import './quiz.dart';
 import './result.dart';
 
+// VSCODE
 // コードスニペット control + space
 // フォーマット option + f
 // リファクター option + r
